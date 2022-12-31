@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishor
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently Studying Data Science
 - 💞️ I’m looking to collaborate on any Data Science job
 - 📫 How to reach me mailto: kishorkumar14112@gmail.com
 
